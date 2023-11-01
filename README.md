@@ -151,22 +151,16 @@ Windows                  17 hrs 16 mins      ███████████�
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((小林同学))
     编程
       Web开发
       网络爬虫
       人工智能
-    摄影
-      风光
     旅行
-      广州
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
+      长沙
+      洛阳
+      亳州
     阅读
-      人物传记
       个人成长
       社会文化
       计算机技术
@@ -288,14 +282,11 @@ mindmap
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xoxosos"/></a></td>
+    <td><img src="https://streak-stats.demolab.com?user=xoxosos"/></td>
   </tr>
 </table>
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-
 </div>
