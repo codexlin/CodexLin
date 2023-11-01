@@ -43,11 +43,10 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是Ace Lin。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
+<br>
 </td></tr>
 
 <tr>
@@ -253,8 +252,8 @@ mindmap
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/7f58d7d3-60dc-428d-ab33-e673def9e4af.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/63267441-744a-4040-93b8-6c60d5c635a2.svg" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
    </td>
@@ -280,12 +279,7 @@ mindmap
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=xoxosos"/></td>
-  </tr>
-</table>
-</div>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
