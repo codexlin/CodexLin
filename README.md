@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.look4u.top/">
+    <a href="https://page.look4u.top/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小林同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://www.cnblogs.com/pglin/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
@@ -38,14 +38,16 @@
 <tr><td>
 
 <!-- About me 关于我 -->
-### 🤺 About Me
+### :woman_technologist: About Me :
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
-<p>&emsp;&emsp;大家好，我是Ace Lin。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+- :telescope: 我是一名软件工程师，为构建web应用程序的前端和后端做出贡献。.
+
+- :seedling: 热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。.
+
+- :zap: We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
 <br>
 </td></tr>
 
@@ -75,74 +77,6 @@
 <tr><td> 
   -->
 
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=xoxosos&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=xoxosos&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xoxosos&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                425 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌆 Daytime                580 commits         ████████░░░░░░░░░░░░░░░░░   31.33 % 
-🌃 Evening                566 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌙 Night                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Wednesday                239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Thursday                 232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Friday                   516 commits         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Saturday                 167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Sunday                   264 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   13 hrs 6 mins       ███████████████████░░░░░░   75.87 % 
-JSON                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 16 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  17 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/11/2023 01:17:20 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
-</table>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -152,16 +86,15 @@ Windows                  17 hrs 16 mins      ███████████�
 mindmap
   root((小林同学))
     编程
-      Web开发
-      网络爬虫
-      人工智能
-    旅行
-      长沙
-      洛阳
-      亳州
+      前端开发
+      后端开发
+    娱乐
+      音乐
+      游戏
+      旅行
     阅读
       个人成长
-      社会文化
+      军事科技
       计算机技术
 ```
 
@@ -233,8 +166,10 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<!-- just img 图片
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+-->
+</div>
 
 </div>
 
@@ -270,14 +205,20 @@ mindmap
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+  
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoxosos&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoxosos&theme=vision-friendly-dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxosos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
-
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxosos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues)
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 <!-- GitHub Activity Graph GitHub 活动图 -->
 
 
