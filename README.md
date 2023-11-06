@@ -181,15 +181,15 @@ mindmap
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
 <!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img  src="https://github-profile-trophy.vercel.app/?username=xoxosos&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 
   
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/7f58d7d3-60dc-428d-ab33-e673def9e4af.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/63267441-744a-4040-93b8-6c60d5c635a2.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/8509a0a6-6a19-4949-be89-b46386ed94d9.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/7760d5d0-c9d0-4994-971d-479e3fd2c6c3.svg" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
    </td>
