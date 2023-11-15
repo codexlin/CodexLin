@@ -188,8 +188,8 @@ mindmap
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/8509a0a6-6a19-4949-be89-b46386ed94d9.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/7760d5d0-c9d0-4994-971d-479e3fd2c6c3.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/6e2fcb97-b2ac-43d9-aac7-29f477e55943.png" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/b584e2d5-b7e5-4869-97a5-e738e0b695ba.png" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
    </td>
