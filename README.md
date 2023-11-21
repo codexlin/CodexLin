@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://page.look4u.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小林同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Forever%2C%20Explorer%22);小林同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
   
@@ -17,11 +17,9 @@
     <a href="https://www.cnblogs.com/pglin/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/CodeLin575/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@renjielin1065"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://juejin.cn/user/1790459580253198"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=xoxosos&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -42,45 +40,129 @@
   
 ### :woman_technologist: About Me :
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
 - :telescope: 我是一名软件工程师，为构建web应用程序的前端和后端做出贡献。.
 
 - :seedling: 热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。.
+  
+- 📫 联系我 `xoxosos666@gmail.com`.
 
-- :zap: We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
+- :zap: Code For Better.
 <br>
 </td>
 </tr>
 
 <tr>
 <td>
+
+### ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+
+<table style="width:100%">
+ <tr>
+    <th>Programming Languages</th>
+    <td> 
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=oracle&logoColor=red" />
+      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      
+      
+   </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
+      <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=red" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+<!-- 
+  <tr>
+    <th>Hosting/SaaS/PaaS</th>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
+    </td>
+  </tr>
+-->
+  <tr>
+    <th>Automate, Deploy, Platform & Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
+      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <th>Testing</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Vitest-6E9F18?&style=flat-square&logo=Vitest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/mac%20os-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Markup/Markdown</th>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+    </td>
+  </tr>
+<!-- 
+  <tr>
+    <th>Others</th>
+    <td>
+      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+    </td>
+  </tr>
+-->
+  
+</table>
+
+
   
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
 
-```mermaid
-mindmap
-  root((小林同学))
-    编程
-      前端开发
-      后端开发
-    娱乐
-      音乐
-      游戏
-      旅行
-    阅读
-      个人成长
-      军事科技
-      计算机技术
-```
+
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
+
+
+<!-- just img 图片 
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
@@ -123,7 +205,7 @@ mindmap
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
-<!-- svg -->
+<!-- svg 
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -135,8 +217,10 @@ mindmap
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+-->
 
-<!-- gif -->
+<!-- gif 
+
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
@@ -145,10 +229,8 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
-<!-- just img 图片
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 -->
+
 </div>
 
 </div>
@@ -167,8 +249,8 @@ mindmap
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/6e2fcb97-b2ac-43d9-aac7-29f477e55943.png" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/b584e2d5-b7e5-4869-97a5-e738e0b695ba.png" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/6e2fcb97-b2ac-43d9-aac7-29f477e55943.png" width="400" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/b584e2d5-b7e5-4869-97a5-e738e0b695ba.png" width="400" alt="Wakatime"/></td>
   </tr>
   <tr>
    </td>
@@ -203,5 +285,5 @@ mindmap
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
