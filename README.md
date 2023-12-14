@@ -38,7 +38,7 @@
 <td>
 <!-- About me 关于我 -->
   
-### :woman_technologist: About Me :
+### 🤗 About Me :
 
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
@@ -69,8 +69,6 @@ These are some of the technologies and tools that I work with:
        <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=oracle&logoColor=red" />
       <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      
-      
    </td>
   </tr>
   <tr>
