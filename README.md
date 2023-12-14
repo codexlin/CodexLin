@@ -60,10 +60,10 @@
 
 These are some of the technologies and tools that I work with:
 
-<table style="width:100%">
+<table >
  <tr>
     <th>Programming Languages</th>
-    <td> 
+    <td > 
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
        <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=oracle&logoColor=red" />
