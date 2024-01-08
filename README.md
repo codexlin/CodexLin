@@ -10,7 +10,7 @@
   ![Visitor Count](https://profile-counter.glitch.me/xoxosos/count.svg)
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -32,7 +32,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
 
 <!--Night Owl image-->
 <div>
@@ -63,7 +63,7 @@
 
 <br />
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 
@@ -71,7 +71,7 @@
   <!--  skill badge 技能徽章 -->
   <!-- just img 图片 -->
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />  
+    <img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />  
   </p>
   
 💪 正在学习
@@ -220,7 +220,7 @@
 </p>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
 
 </div>
 
@@ -252,27 +252,27 @@
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
   
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoxosos&theme=vision-friendly-dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
 
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxosos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
 
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxosos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues)
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
 <!-- GitHub Activity Graph GitHub 活动图 -->
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
 </div>
