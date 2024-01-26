@@ -230,12 +230,7 @@
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=xoxosos&theme=juicyfresh&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-  
-<!-- Wakatime Graph-->
+<!-- Wakatime Graph
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@33271716-d051-4bd7-96a0-eee45e875c76/6e2fcb97-b2ac-43d9-aac7-29f477e55943.png" width="400" alt="Wakatime"/></td>
@@ -245,6 +240,9 @@
    </td>
   </tr>
 </table>
+
+-->
+
 </div>
 
 
@@ -260,17 +258,22 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoxosos&theme=vision-friendly-dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
-
-<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxosos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoxosos&theme=vision-friendly-dark&hide_border=true" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
+
+
+
+
+<!-- GitHub Activity Graph GitHub 活动图 
+
+<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxosos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues)
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
-<!-- GitHub Activity Graph GitHub 活动图 -->
+-->
 
 
 <!-- ########################################## 分割 ########################################## -->
