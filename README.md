@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://page.look4u.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=consolas&pause=1000&color=fff&vCenter=true&random=false&width=435&lines=console.log('Forever+Explorer');Be Happy everyday!&center=true&size=22" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=E267F7F8&vCenter=true&random=false&width=435&lines=console.log('Forever+Explorer');Be+happy+everyday!&center=true&size=22" alt="Typing SVG" />
     </a>
   </div>
   
