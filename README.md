@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://page.look4u.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=E267F7F8&vCenter=true&random=false&width=435&lines=console.log('Forever+Explorer');Be+happy+everyday!&center=true&size=22" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=E267F7F8&vCenter=true&random=false&width=435&lines=console.log('Forever+Explorer');Be+happy+everyday!&center=true&size=32" alt="Typing SVG" />
     </a>
   </div>
   
@@ -69,11 +69,10 @@
 
 <div align="center">
   <!--  skill badge 技能徽章 -->
-  <!-- just img 图片 -->
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />  
-  </p>
-  
+  <!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<!-- Joke 笑话 -->
+<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -117,6 +116,7 @@
 </div>
 <br />
 
+<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -236,21 +236,4 @@
 -->
 
 </div>
-<div align="center">
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-<!-- github-readme-streak-stats 连续提交代码天数记录 
-<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxosos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
--->
-<!-- GitHub Activity Graph GitHub 活动图 
-<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxosos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues)
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
--->
-<!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
-</div>
+
