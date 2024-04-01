@@ -181,7 +181,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=It's%20not%20about%20what%20it%20is%2C%20it's%20about%20what%20it%20can%20become.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=AceLin&quote=It's%20not%20about%20what%20it%20is%2C%20it's%20about%20what%20it%20can%20become.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -190,21 +190,12 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
 <a href="mailto:xoxosos666@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
+<!-- <a href="https://twitter.com/kiran__a__n" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 </div>
 <br/>
 
@@ -226,9 +217,10 @@
 
 <div align="center" >
 
-  
-<!-- Quotes 名人名言 -->
+
+<!-- Quotes 名人名言 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+-->
 
 <!-- Wakatime Graph
 <table>
@@ -244,38 +236,21 @@
 -->
 
 </div>
-
-
-
 <div align="center">
-
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
-
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-  
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<!-- github-readme-streak-stats 连续提交代码天数记录 
 <img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxosos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
-
-<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoxosos&theme=vision-friendly-dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
-
-
-
-
+-->
 <!-- GitHub Activity Graph GitHub 活动图 
-
 <img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/left.png" />&emsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxosos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues)
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/right.png" />
 -->
-
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
 </div>
