@@ -45,13 +45,13 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China with a huge love for JavaScript, TypeScrpit, React.js, Vue.js, Node.js, REST API and Java. </p>
+<p align="left">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China with a huge love for JavaScript, TypeScrpit, React.js, Vue.js, Java, REST API and Node.js </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs, You can visit my blog site at [cnblogs](https://www.cnblogs.com/pglin).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://page.look4u.top) for more details about me.
+- 💻 Visit my [HomePage](https://look4u.top) for more details about me.
 - 📫 Contact at `xoxosos666@gmail.com`.
 -  :zap: Code For Better.
 <!--End Intro-->
@@ -122,7 +122,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/xoxosos/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xoxosos&theme=juicyfresh&row=1&column=6&margin-w=20&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=xoxosos&theme=radical&row=1&column=8&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
   </a>
 </p>
 <br />
