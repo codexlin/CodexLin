@@ -122,7 +122,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/look4u-ovo/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=look4u-ovo&theme=radical&row=1&column=8&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=look4u-ovo&theme=radical&row=1&column=7&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
   </a>
 </p>
 <br />
