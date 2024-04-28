@@ -7,10 +7,10 @@
     </a>
   </div>
   
-  ![Visitor Count](https://profile-counter.glitch.me/xoxosos/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/look4u-ovo/count.svg)
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/look4u-ovo/jsDelivr/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -19,7 +19,7 @@
     <a href="https://www.youtube.com/@renjielin1065"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://b23.tv/ydpCGqe/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=xoxosos&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=look4u-ovo&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -32,7 +32,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/look4u-ovo/jsDelivr/assets/images/hr.gif" />
 
 <!--Night Owl image-->
 <div>
@@ -52,25 +52,25 @@
 - ✍ I write technical blogs, You can visit my blog site at [cnblogs](https://www.cnblogs.com/pglin).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [HomePage](https://look4u.top) for more details about me.
-- 📫 Contact at `xoxosos666@gmail.com`.
+- 📫 Contact at `look4u-ovo666@gmail.com`.
 -  :zap: Code For Better.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xoxosos&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="xoxosos" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=look4u-ovo&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="look4u-ovo" style="padding-right:20px;" />
 </p>
 
 <br />
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/look4u-ovo/jsDelivr/assets/images/hr.gif" />
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 
 <div align="center">
   <!--  skill badge 技能徽章 -->
   <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/look4u-ovo/jsDelivr/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 💪 正在学习
@@ -116,13 +116,13 @@
 </div>
 <br />
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/look4u-ovo/jsDelivr/assets/images/hr.gif" />
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/xoxosos/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xoxosos&theme=radical&row=1&column=8&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
+  <a href="https://github.com/look4u-ovo/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=look4u-ovo&theme=radical&row=1&column=8&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -135,16 +135,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/xoxosos">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=xoxosos&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/look4u-ovo">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=look4u-ovo&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/xoxosos">
-          <img align="center" src="https://streak-stats.demolab.com?user=xoxosos&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/look4u-ovo">
+          <img align="center" src="https://streak-stats.demolab.com?user=look4u-ovo&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -153,16 +153,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/xoxosos/vue-ace-admin">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=xoxosos&repo=vue-ace-admin&theme=nightowl&show_owner=true" alt="vue-ace-admin" />
+        <a href="https://github.com/look4u-ovo/vue-ace-admin">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=look4u-ovo&repo=vue-ace-admin&theme=nightowl&show_owner=true" alt="vue-ace-admin" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/xoxosos">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=xoxosos&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/look4u-ovo">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=look4u-ovo&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -173,7 +173,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxosos&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=look4u-ovo&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
@@ -190,7 +190,7 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-<a href="mailto:xoxosos666@gmail.com" target="_blank">
+<a href="mailto:look4u-ovo666@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/CodeLin575" target="_blank">
@@ -211,7 +211,7 @@
 </p>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/xoxosos/jsDelivr/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/look4u-ovo/jsDelivr/assets/images/hr.gif" />
 
 </div>
 
