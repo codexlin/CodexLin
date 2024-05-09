@@ -51,7 +51,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs, You can visit my blog site at [cnblogs](https://www.cnblogs.com/pglin).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [HomePage](https://look4u.top) for more details about me.
+- 💻 Visit my [HomePage](https://www.look4u.top/) for more details about me.
 - 📫 Contact at `look4u-ovo666@gmail.com`.
 -  :zap: Code For Better.
 <!--End Intro-->
