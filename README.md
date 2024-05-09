@@ -72,7 +72,8 @@
   <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/look4u-ovo/jsDelivr/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 <!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+<!-- <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div> -->
+  
 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
