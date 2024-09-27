@@ -119,7 +119,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/CodexLin/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CodexLin&theme=radical&row=1&column=7&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=CodexLin&theme=radical&row=1&column=6&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
   </a>
 </p>
 <br />
